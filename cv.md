@@ -7,4 +7,7 @@
 **About myself:**
 
 I'm frontend developer from belarus. I lerning web development aorund 1.5 year by my self.
-Have experience with react, mobx statement manager, axios and etc. libraries. I hope this course will fill knowledge i skiped by some reason. 
+Have experience with react, mobx statement manager, axios and etc. libraries. I hope this course will fill knowledge i skiped by some reason.
+
+*******
+**English** - B1 
